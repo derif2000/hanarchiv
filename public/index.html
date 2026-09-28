@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="theme-color" content="#0b3d6b">
+  <title>Información Estadística · Descargador</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="wrap topbar-inner">
+      <div class="brand">
+        <h1>Información Estadística</h1>
+        <p class="sub">Descargador y verificador de actualizaciones · Ministerio de Defensa</p>
+      </div>
+      <div class="source" id="sourceBadge">—</div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <!-- Fecha / resumen -->
+    <section class="panel intro">
+      <div class="fecha" id="fechaPublicacion">Cargando…</div>
+      <div class="chips" id="summaryChips"></div>
+      <div class="toolbar">
+        <input id="search" type="search" placeholder="Buscar archivo…" autocomplete="off">
+        <button id="btnDownloadAll" class="btn big download" type="button">⬇️ Descargar todo</button>
+        <button id="btnRefresh" class="btn" type="button">🔄 Comprobar actualizaciones</button>
+        <button id="btnReset" class="btn ghost" type="button">Borrar historial</button>
+      </div>
+      <p class="hint" id="hintBar"></p>
+    </section>
+
+    <!-- Progreso de descarga masiva -->
+    <section class="panel progress-panel" id="progressPanel" hidden>
+      <div class="progress-head">
+        <strong id="progressLabel">Descargando todo…</strong>
+        <button id="btnCancelAll" class="btn ghost" type="button">Cancelar</button>
+      </div>
+      <div class="progress-track"><div class="progress-fill" id="progressFill" style="width:0%"></div></div>
+      <div class="progress-sub" id="progressSub">0 / 0</div>
+    </section>
+
+    <!-- Documentos principales -->
+    <section id="mainDocs" class="block">
+      <h2 class="block-title">Documentos principales</h2>
+      <div id="mainDocsList" class="cards"></div>
+    </section>
+
+    <!-- Información estadística desagregada -->
+    <section id="desagregada" class="block">
+      <h2 class="block-title">Información estadística desagregada</h2>
+      <div id="sectionsList"></div>
+    </section>
+
+    <p class="footnote" id="footnote"></p>
+  </main>
+
+  <footer class="footer">
+    <div class="wrap">
+      Datos extraídos de
+      <a href="https://www.mindefensa.gov.co/defensa-y-seguridad/datos-y-cifras/informacion-estadistica" target="_blank" rel="noopener">
+        mindefensa.gov.co — Información Estadística</a>.
+      La verificación de actualizaciones compara la fecha de modificación del sitio con la última descarga realizada en este dispositivo.
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

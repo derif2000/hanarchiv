@@ -1,0 +1,14 @@
+# Render Blueprint — https://render.com/docs/blueprint-spec
+# Con este archivo, en Render basta con: New + > Blueprint > elegir el repositorio.
+services:
+  - type: web
+    name: mindefensa-descargador
+    runtime: node
+    plan: free
+    region: oregon
+    autoDeploy: true            # redespliega automáticamente en cada push
+    buildCommand: npm install
+    startCommand: node server.js
+    healthCheckPath: /api/estado
+    # NOTA: no se define PORT a propósito. Render inyecta su propio PORT
+    # (por defecto 10000) y el servidor ya escucha en process.env.PORT.

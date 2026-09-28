@@ -1,0 +1,151 @@
+{
+  "_comentario": "Manifiesto de archivos capturado del sitio. Fuente y fecha de corte indicadas abajo.",
+  "fuente": "https://www.mindefensa.gov.co/defensa-y-seguridad/datos-y-cifras/informacion-estadistica",
+  "manifestGeneradoEl": "2026-09-28",
+  "tituloPagina": "Información Estadística",
+  "fechaPublicacion": "Fecha de publicación: 16 de septiembre de 2026 · Fecha de corte de la información: 31 de agosto de 2026",
+  "documentosPrincipales": [
+    {
+      "seccion": "Seguimiento a indicadores y resultados operacionales",
+      "descripcion": "Documento comparativo de los avances de los nueve Objetivos de la Política de Defensa y Seguridad (en PPTX y PDF).",
+      "formato": "PPTX",
+      "titulo": "Seguimiento a indicadores y resultados - Agosto 2026",
+      "nombreDescarga": "SEGUIMIENTO A INDICADORES Y RESULTADOS AGOSTO 2026 PPTX",
+      "asset": "CONT7A6C29C0CE6C4BBDAD11F646B7016C28"
+    },
+    {
+      "seccion": "Seguimiento a indicadores y resultados operacionales",
+      "descripcion": "Documento comparativo de los avances de los nueve Objetivos de la Política de Defensa y Seguridad (en PPTX y PDF).",
+      "formato": "PDF",
+      "titulo": "Seguimiento a indicadores y resultados - Agosto 2026",
+      "nombreDescarga": "SEGUIMIENTO A INDICADORES Y RESULTADOS AGOSTO 2026 PDF",
+      "asset": "CONT22F4715A34C447BE9522C3848510544F"
+    },
+    {
+      "seccion": "Indicadores de seguridad y resultados operacionales",
+      "descripcion": "Indicadores de resultados operacionales de la Fuerza Pública contra la Delincuencia y los Grupos Armados Organizados (en XLSX y PDF).",
+      "formato": "XLSX",
+      "titulo": "Indicadores de seguridad y resultados - Agosto 2026",
+      "nombreDescarga": "INDICADORES DE SEGURIDAD Y RESULTADOS AGOSTO 2026 XLSX",
+      "asset": "CONT411567378DA24803A758CC3010B94198"
+    },
+    {
+      "seccion": "Indicadores de seguridad y resultados operacionales",
+      "descripcion": "Indicadores de resultados operacionales de la Fuerza Pública contra la Delincuencia y los Grupos Armados Organizados (en XLSX y PDF).",
+      "formato": "PDF",
+      "titulo": "Indicadores de seguridad y resultados - Agosto 2026",
+      "nombreDescarga": "INDICADORES DE SEGURIDAD Y RESULTADOS AGOSTO 2026 PDF",
+      "asset": "CONT3BDF382E89DD4A4A8058224248CCFCC9"
+    }
+  ],
+  "secciones": [
+    {
+      "titulo": "Avances en la lucha contra el problema mundial de las drogas",
+      "archivos": [
+        { "titulo": "ASPERSION", "asset": "CONT4E8CB4074CB443CABC673153A770E9DF", "ultimaModificacion": "16/9/2026, 10:03:01", "modificadoPor": "juan.dulce" },
+        { "titulo": "DESTRUCCIÓN DE INFRAESTRUCTURAS", "asset": "CONTB7F6BC34B23D4E4D8B6872D466E478CB", "ultimaModificacion": "16/9/2026, 10:04:00", "modificadoPor": "juan.dulce" },
+        { "titulo": "ERRADICACIÓN", "asset": "CONTC297FC50935E45AA95DA48284C7AABC1", "ultimaModificacion": "22/9/2026, 15:38:32", "modificadoPor": "juan.dulce" },
+        { "titulo": "HOJA DE COCA", "asset": "CONTE8050CBFEF3D40FCAC039F8D6CF55CE2", "ultimaModificacion": "16/9/2026, 10:05:10", "modificadoPor": "juan.dulce" },
+        { "titulo": "INCAUTACIÓN DE BASE DE COCA", "asset": "CONT5C717EBE5D3C44439CBB903CB6AD48A8", "ultimaModificacion": "16/9/2026, 10:05:51", "modificadoPor": "juan.dulce" },
+        { "titulo": "INCAUTACIÓN DE BASUCO", "asset": "CONT1D3787923A8B411D810C89BCB1D075C8", "ultimaModificacion": "16/9/2026, 10:06:28", "modificadoPor": "juan.dulce" },
+        { "titulo": "INCAUTACIÓN DE COCAINA", "asset": "CONTE2A4EB08779A4A84ABC354D0D39B4B5A", "ultimaModificacion": "16/9/2026, 10:07:05", "modificadoPor": "juan.dulce" },
+        { "titulo": "INCAUTACIÓN DE HEROINA", "asset": "CONTF67BD6DDDADA472FB13F64440ED9D779", "ultimaModificacion": "16/9/2026, 10:07:34", "modificadoPor": "juan.dulce" },
+        { "titulo": "INCAUTACIÓN DE MARIHUANA", "asset": "CONTD083787CEF7E4DAEB2BA7208D6060CC6", "ultimaModificacion": "16/9/2026, 10:08:14", "modificadoPor": "juan.dulce" },
+        { "titulo": "INSUMOS LIQUIDOS", "asset": "CONT3004F50506B94C44B16B39245AACD8BF", "ultimaModificacion": "16/9/2026, 16:33:03", "modificadoPor": "ivan.naranjo" },
+        { "titulo": "INSUMOS SOLIDOS", "asset": "CONTD75F62AAB67A48E5BBA1573A1B2BF433", "ultimaModificacion": "16/9/2026, 16:02:00", "modificadoPor": "juan.dulce" }
+      ]
+    },
+    {
+      "titulo": "Delitos contra el patrimonio economico",
+      "archivos": [
+        { "titulo": "EXTORSIÓN", "asset": "CONTC784725891C547A1B33258E01287EBC2", "ultimaModificacion": "16/9/2026, 10:09:55", "modificadoPor": "juan.dulce" },
+        { "titulo": "HURTO A COMERCIO", "asset": "CONTA3FCC6DDEAEE463CA60C77F930EFAB2E", "ultimaModificacion": "16/9/2026, 10:10:24", "modificadoPor": "juan.dulce" },
+        { "titulo": "HURTO A RESIDENCIAS", "asset": "CONT807B687C6FE847F09B593C5601ADE7A1", "ultimaModificacion": "16/9/2026, 10:10:58", "modificadoPor": "juan.dulce" },
+        { "titulo": "HURTO ABIGEATO", "asset": "CONT537CF0DA252843B9887C6429FCF2BCA4", "ultimaModificacion": "16/9/2026, 10:11:23", "modificadoPor": "juan.dulce" },
+        { "titulo": "HURTO DE VEHÍCULOS", "asset": "CONTFFF3F468683A4A68848EC3F7B443E0DB", "ultimaModificacion": "16/9/2026, 10:11:57", "modificadoPor": "juan.dulce" },
+        { "titulo": "HURTO ENTIDADES FINANCIERAS", "asset": "CONTEF17515FB4174FD88132B117C08EB780", "ultimaModificacion": "16/9/2026, 10:12:21", "modificadoPor": "juan.dulce" },
+        { "titulo": "HURTO PERSONAS", "asset": "CONTF17A630F3EC5449ABE780BF1440B46FB", "ultimaModificacion": "16/9/2026, 10:02:27", "modificadoPor": "juan.dulce" },
+        { "titulo": "INVASIÓN DE TIERRAS", "asset": "CONT142196E5BE2E43C883984D5B415AA033", "ultimaModificacion": "16/9/2026, 16:04:36", "modificadoPor": "juan.dulce" },
+        { "titulo": "PIRATERÍA TERRESTRE", "asset": "CONT8990849AAB5D4B0E89B41BFDDA42EA43", "ultimaModificacion": "16/9/2026, 10:13:47", "modificadoPor": "juan.dulce" }
+      ]
+    },
+    {
+      "titulo": "Delitos contra la familia",
+      "archivos": [
+        { "titulo": "VIOLENCIA INTRAFAMILIAR", "asset": "CONTE790B35DAF5C40B49C8B2B77AC7F0D08", "ultimaModificacion": "16/9/2026, 10:14:19", "modificadoPor": "juan.dulce" }
+      ]
+    },
+    {
+      "titulo": "Delitos contra la libertad individual y otras garantías constitucionales",
+      "archivos": [
+        { "titulo": "SECUESTRO", "asset": "CONT252DE86D42DB4726B6772B3E48334A25", "ultimaModificacion": "16/9/2026, 10:14:47", "modificadoPor": "juan.dulce" },
+        { "titulo": "TRATA DE PERSONAS Y TRÁFICO DE MIGRANTES", "asset": "CONT8514F2C592C44391A27A90DFDF389FF0", "ultimaModificacion": "16/9/2026, 10:15:03", "modificadoPor": "juan.dulce" }
+      ]
+    },
+    {
+      "titulo": "Delitos contra la libertad, integridad y formación sexuales",
+      "archivos": [
+        { "titulo": "DELITOS SEXUALES", "asset": "CONTC70D2CECDB0D44BCB327E1BC35861260", "ultimaModificacion": "16/9/2026, 10:15:29", "modificadoPor": "juan.dulce" }
+      ]
+    },
+    {
+      "titulo": "Delitos contra la protección de la información y de los datos",
+      "archivos": [
+        { "titulo": "DELITOS INFORMÁTICOS", "asset": "CONT2F5C0B6AE8844F4EA617D30C9E6DE9D7", "ultimaModificacion": "16/9/2026, 10:15:56", "modificadoPor": "juan.dulce" }
+      ]
+    },
+    {
+      "titulo": "Delitos contra la seguridad publica",
+      "archivos": [
+        { "titulo": "PUENTES Y VÍAS", "asset": "CONT4298666698CF4153992EAF30C3E49BD3", "ultimaModificacion": "16/9/2026, 10:16:19", "modificadoPor": "juan.dulce" },
+        { "titulo": "TERRORISMO", "asset": "CONT4829E9BD2BB9432C97628AF7982E47C2", "ultimaModificacion": "16/9/2026, 10:36:59", "modificadoPor": "juan.dulce" },
+        { "titulo": "VOLADURA DE OLEODUCTOS", "asset": "CONTCE258778B39D45229FD98E242E3129C0", "ultimaModificacion": "16/9/2026, 10:37:20", "modificadoPor": "juan.dulce" }
+      ]
+    },
+    {
+      "titulo": "Delitos contra la vida y la integridad personal",
+      "archivos": [
+        { "titulo": "HOMICIDIO ACCIDENTES DE TRÁNSITO", "asset": "CONT55098989546B4C9AA7BDC4AD93EED615", "ultimaModificacion": "16/9/2026, 10:37:46", "modificadoPor": "juan.dulce" },
+        { "titulo": "HOMICIDIO INTENCIONAL", "asset": "CONT277702F4D1594584BC83F31A6060F235", "ultimaModificacion": "16/9/2026, 10:38:09", "modificadoPor": "juan.dulce" },
+        { "titulo": "LESIONES ACCIDENTES DE TRÁNSITO", "asset": "CONTB07C60EFD1B647E4B1CA9D1EA286B509", "ultimaModificacion": "16/9/2026, 10:38:40", "modificadoPor": "juan.dulce" },
+        { "titulo": "LESIONES COMUNES", "asset": "CONTD1E88538AC4E42E09172A0D9910C40C2", "ultimaModificacion": "16/9/2026, 10:39:30", "modificadoPor": "juan.dulce" },
+        { "titulo": "MASACRES", "asset": "CONT288E998950354847BD1F12EA1B5B7A98", "ultimaModificacion": "16/9/2026, 10:39:57", "modificadoPor": "juan.dulce" }
+      ]
+    },
+    {
+      "titulo": "Delitos contra los recursos naturales y el medio ambiente",
+      "archivos": [
+        { "titulo": "DELITOS CONTRA EL MEDIO AMBIENTE", "asset": "CONTD4B51CFF44D44CF3B59747FA6369591A", "ultimaModificacion": "16/9/2026, 10:40:36", "modificadoPor": "juan.dulce" }
+      ]
+    },
+    {
+      "titulo": "Desmovilización y sometimiento individual",
+      "archivos": [
+        { "titulo": "DESMOVILIZADOS ELN", "asset": "CONT518F342E452D40ABB4507D2CABC843DD", "ultimaModificacion": "16/9/2026, 16:02:19", "modificadoPor": "juan.dulce" },
+        { "titulo": "DESVINCULADOS", "asset": "CONT28FCB27E88FF4859A6F8BA85F0400C36", "ultimaModificacion": "16/9/2026, 16:02:33", "modificadoPor": "juan.dulce" },
+        { "titulo": "SOMETIDOS", "asset": "CONT3773846FB57A49D480CDC42C9639E189", "ultimaModificacion": "22/9/2026, 15:37:25", "modificadoPor": "juan.dulce" }
+      ]
+    },
+    {
+      "titulo": "Gestión del Riesgo",
+      "archivos": [
+        { "titulo": "Gestión del Riesgo", "asset": "CONTC3EC28FC3764422596AD648ADFC7157E", "ultimaModificacion": "18/8/2026, 14:28:03", "modificadoPor": "andrea.duran" }
+      ]
+    },
+    {
+      "titulo": "Resultados contra la explotación ilícita de yacimientos mineros",
+      "archivos": [
+        { "titulo": "CAPTURAS POR MINERÍA ILEGAL", "asset": "CONTAF628DB20CC047D7BF9EA6F8D679369C", "ultimaModificacion": "16/9/2026, 10:43:14", "modificadoPor": "juan.dulce" },
+        { "titulo": "INCAUTACIONES MINERIA", "asset": "CONT85F1CF97D3A845ADB887A98F2F38E09C", "ultimaModificacion": "16/9/2026, 10:44:04", "modificadoPor": "juan.dulce" },
+        { "titulo": "INCAUTACIÓN ORO Y MERCURIO", "asset": "CONTCDE6F8DD0D31489FA709F2F15D945E92", "ultimaModificacion": "16/9/2026, 10:43:39", "modificadoPor": "juan.dulce" },
+        { "titulo": "MINAS INTERVENIDAS", "asset": "CONTAA9F48EA9FE44A15ABD95B4436B7CE0F", "ultimaModificacion": "16/9/2026, 10:44:22", "modificadoPor": "juan.dulce" }
+      ]
+    },
+    {
+      "titulo": "Afectación a la Fuerza Pública",
+      "archivos": [
+        { "titulo": "AFECTACIÓN A LA FUERZA PÚBLICA", "asset": "CONTAD5AC3B286A645FAB41903D90BF83049", "ultimaModificacion": "16/9/2026, 10:02:11", "modificadoPor": "juan.dulce" }
+      ]
+    }
+  ]
+}
